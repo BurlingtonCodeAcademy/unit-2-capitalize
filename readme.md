@@ -8,11 +8,11 @@ In this lab we will be practicing string manipulation, initializing variables an
 
 Topics
 
-- `.slice()`
-- `.toUpperCase()`
-- `.toLowerCase()`
-- Variables
-- Functions
+- [`.slice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice)
+- [`.toUpperCase()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
+- [`.toLowerCase()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+- [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+- [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 - `console.log()`
 
 ## Achieving
