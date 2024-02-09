@@ -30,9 +30,9 @@ Your work will result in:
 
 - [ ] Within the `capitalize` code block, initialize a `firstLetter` variable and assign it the value of our string's first index.
     - ex. For the word "LeTTuCe", firstLetter will be "L"
-    - If you get stuck, try looking up the topics listed above
 - [ ] Within the `capitalize` code block, initialize a `restOfWord` variable and assign it the value of the rest of our strings indexes.
     - ex. For the word "LeTTuCe", restOfWord would be "eTTuCe"
+    - hint: you will need to use [slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice) to achieve this
 - [ ] Within the `capitalize` code block, make the `firstLetter` variable uppercase, make the `restOfWord` variable lowercase
 - [ ] Concatenate the resulting strings and assign them to a `fullWord` variable.
 - [ ] Print the `fullWord` variable.
